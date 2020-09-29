@@ -1,0 +1,36 @@
+[query]
+> 0.5%, last 2 versions, Firefox ESR, not dead, not IE 11
+
+# output of `BROWSERSLIST_ENV=query yarn browserslist`
+[hardcoded]
+and_chr 85
+and_ff 79
+and_qq 10.4
+and_uc 12.12
+android 81
+baidu 7.12
+chrome 85
+chrome 84
+chrome 83
+edge 85
+edge 84
+firefox 81
+firefox 80
+firefox 79
+firefox 78
+ie 11
+ios_saf 14.0
+ios_saf 13.4-13.7
+ios_saf 13.3
+ios_saf 13.0-13.1
+ios_saf 12.2-12.4
+ios_saf 12.0-12.1
+kaios 2.5
+op_mini all
+op_mob 59
+opera 71
+opera 70
+safari 14
+safari 13.1
+samsung 12.0
+samsung 11.1-11.2
